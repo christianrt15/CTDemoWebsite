@@ -6,4 +6,4 @@ categories:
 ---
 
 
-##Breif History on Racialized Covenants.
+A Brief History on Racialized Covenants.
