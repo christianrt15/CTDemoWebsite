@@ -5,7 +5,7 @@ date:   2024-02-28 13:45:14 -0600
 categories: 
 ---
 
-What is a Covenant?
+## What is a Covenant?
 
 Racial covenants are clauses that were inserted into property deeds to prevent people who were not white from occupying land.
 
@@ -18,7 +18,7 @@ Jekyll requires blog post files to be named according to the following format:
 
 ## Publications on related material 
 
-* Prejudice and Property: An Historic Brief Against Racial Covenants By Tom Campbell Clark (Author) and Philip Benjamin Perlman (Author)
+* Prejudice and Property: A Historic Brief Against Racial Covenants By Tom Campbell Clark (Author) and Philip Benjamin Perlman (Author)
 * The Color of Law: A Forgotten History of How our Government Segregated America By Richard Rothstein
 * Toxic Communities: Environmental Racism, Industrial Pollution, and Residential Mobility By Doreceta E. Taylor 
 * Saving the neighborhood: racially restrictive covenants, law, and social norms By Richard Rexford and Carol M Rose
