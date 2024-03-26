@@ -4,17 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a short bio about the author whose publication on the history of covenants I found interesting. 
+
+## Bio
+Richard Rothstein is an American academic and author affiliated with the Economic Policy Institute and a senior fellow at the Thurgood Marshall Institute of the NAACP Legal Defense Fund. His current research focuses on the history of segregation in the United States about education and housing.
 
 
-This is a demo; I will post content soon. Test the files and see if this text will be posted or not. 
-
-
-You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
