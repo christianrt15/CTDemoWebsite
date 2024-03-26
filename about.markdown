@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Greetings welcome to this website 
+Greetings, welcome to this website. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
