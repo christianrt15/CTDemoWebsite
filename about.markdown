@@ -13,5 +13,5 @@ This is a short bio about the author whose publication on the history of covenan
 
 Richard Rothstein is an American academic and author affiliated with the Economic Policy Institute and a senior fellow at the Thurgood Marshall Institute of the NAACP Legal Defense Fund. His current research focuses on the history of segregation in the United States about education and housing.
 
-https://www.epi.org/people/richard-rothstein/
+[link](https://www.epi.org/people/richard-rothstein/)
 
