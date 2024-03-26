@@ -27,7 +27,8 @@ print_hi('Tom')
 
 ## Images
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![image](https://github.com/christianrt15/CTDemoWebsite/assets/28943900/13f28f5b-65f1-4c27-9a76-2b4afb053629)
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
