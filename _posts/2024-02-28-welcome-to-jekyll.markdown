@@ -5,11 +5,15 @@ date:   2024-02-28 13:45:14 -0600
 categories: 
 ---
 
-## What is a Covenant?
+## What is a Racial Covenant?
 
 Racial covenants are clauses that were inserted into property deeds to prevent people who were not white from occupying land.
 
-Jekyll requires blog post files to be named according to the following format:
+## Summary
+
+Racial covenants served as legally enforceable contracts. They stipulated that the property had to remain in the hands of White people, and they ran with the land, which meant that they could be enforced in perpetuity. Anyone who dared to challenge this ban risked forfeiting their claim to the property.
+
+A survey of the 30,000 covenants unearthed in Hennepin and Ramsey Counties illuminates the wide variety of people targeted. An early Minneapolis restriction proclaimed that the "premises shall not at any time be conveyed, mortgaged or leased to any person or persons of Chinese, Japanese, Moorish, Turkish, Negro, Mongolian or African blood or descent." Before 1919, Jews were often included in this laundry list of “objectionable” people.
 
 
 ## Example Document 
