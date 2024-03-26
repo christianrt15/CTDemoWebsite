@@ -5,9 +5,9 @@ date:   2024-02-28 13:45:14 -0600
 categories: 
 ---
 
-A brief history of racialized covenants.
+What is a Covenant?
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Racial covenants are clauses that were inserted into property deeds to prevent people who were not white from occupying land.
 
 Jekyll requires blog post files to be named according to the following format:
 
