@@ -1,5 +1,5 @@
 ---
-layout: yo
+layout: About
 title:  "Welcome to Jekyll!"
 date:   2024-02-28 13:45:14 -0600
 categories: jekyll update
